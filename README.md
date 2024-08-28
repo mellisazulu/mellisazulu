@@ -16,7 +16,7 @@ Building my portfolio.
 
 ⚡ Fun fact: I love early morning gym sessions!
 
-🧮#Tech Stack
+# 🧮 Tech Stack
 
 
 <!---
