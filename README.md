@@ -1,4 +1,5 @@
 **Hi there! I'm Mellisa**
+
 🙋‍♀️ Welcome to my GitHub repository. 
 
 🧘‍♀️**Personal Profile**
@@ -11,10 +12,12 @@ I'm a Business Analyst that's worked in various industries over the past 5+ year
 
 🖥️**GitHud Usage**
 
-🖇️Stay Linked
-[LinkedIn(www.linkedin.com/in/mellisa-zulu-90010885)]
+Building my portfolio.
 
 ⚡ Fun fact: I love early morning gym sessions!
+
+🧮#Tech Stack
+
 
 <!---
 mellisazulu/mellisazulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
