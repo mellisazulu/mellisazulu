@@ -8,7 +8,7 @@ I'm passionate about learning new skills and widening my knowledge. I'm always e
 
 💻**Professional Background**
 
-I'm a Business Analyst that's worked in various industries over the past 5+ years (insurance, investments, tax - all within the Data Analytics team). Having completed the Data & SQL Coding Kickstarter with CFG earlier this year I am eager to widen my knowledge and move into a technical role having completed this degree. 
+I'm a Business Analyst that's worked in various industries over the past 5+ years (insurance, investments, tax - all within the Data Analytics team). Having completed the Data & SQL Coding Kickstarter with CFG earlier this year, where we created and maintained a database for a Cake Shop. I am eager to widen my knowledge and move into a technical role having completed this degree. 
 
 🖥️**GitHud Usage**
 
