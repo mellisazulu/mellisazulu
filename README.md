@@ -18,7 +18,11 @@ Building my portfolio.
 
 # 🧮 Tech Stack
 
-
+| Rank | Languages |
+|-----:|-----------|
+|     1| SQL       |
+|     2| Python    |
+|     3| JavaScript|
 
 <!---
 mellisazulu/mellisazulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
