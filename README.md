@@ -28,6 +28,7 @@ Building my portfolio.
 
 [LinkedIn](www.linkedin.com/in/mellisa-zulu-90010885)
 
+![Coding Learner](https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-programmer-woman-vector-programmer-workspace-working-on-internet-using-laptop-cartoon-png-image_1887006.jpg)
 
 
 <!---
