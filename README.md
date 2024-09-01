@@ -4,7 +4,7 @@
 
 🧘‍♀️**Personal Profile**
 
-==I'm passionate about learning new skills and widening my knowledge.== I'm always eager to have conversations about new and emerging technologies or areas of self improvement. 
+==I'm passionate about learning new skills and widening my knowledge==. I'm always eager to have conversations about new and emerging technologies or areas of self improvement. 
 
 💻**Professional Background**
 
