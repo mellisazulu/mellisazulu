@@ -4,7 +4,7 @@
 
 🧘‍♀️**Personal Profile**
 
-==I'm passionate about learning new skills and widening my knowledge==. I'm always eager to have conversations about new and emerging technologies or areas of self improvement. 
+I'm passionate about learning new skills and widening my knowledge. I'm always eager to have conversations about new and emerging technologies or areas of self improvement. 
 
 💻**Professional Background**
 
@@ -14,7 +14,7 @@ I'm a Business Analyst that's worked in various industries over the past 5+ year
 
 Building my portfolio.
 
-⚡ Fun fact: I love early morning gym sessions!
+⚡ Fun fact: I speak 3 languages! (English, Shona and Ndebele/Zulu)
 
 # 🧮 Tech Stack
 
@@ -23,6 +23,10 @@ Building my portfolio.
 |     1| SQL       |
 |     2| Python    |
 |     3| JavaScript|
+
+♥️ **Keep in touch**
+
+[LinkedIn] (www.linkedin.com/in/mellisa-zulu-90010885)
 
 <!---
 mellisazulu/mellisazulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
