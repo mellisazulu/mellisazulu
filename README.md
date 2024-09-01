@@ -26,13 +26,8 @@ Building my portfolio.
 
 ♥️ **Keep in touch**
 
-[LinkedIn] (www.linkedin.com/in/mellisa-zulu-90010885)
+[LinkedIn](www.linkedin.com/in/mellisa-zulu-90010885)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
 
 
 <!---
