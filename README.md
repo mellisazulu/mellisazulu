@@ -11,9 +11,9 @@ I'm passionate about learning new skills and widening my knowledge. I'm always e
 I'm a Business Analyst that's worked in various industries over the past 5+ years (insurance, investments, tax - all within the Data Analytics team). Having completed the Data & SQL Coding Kickstarter with CFG earlier this year, where we created and maintained a database for a Cake Shop. I am eager to widen my knowledge and move into a technical role having completed this degree. 
 
 I have also recently completed the Software & Data Engineering Degree with Code First Girls (CFG) and I specifically enjoyed the backend development elements and I’m excited to use my software skills along with my business analysis skills and experience within a new team. Languages and skills include:
-•	Traditional RDBMS (MS SQL Server, Oracle)
-•	Python (OOP, data structures & libraries etc)
-•	Testing & debugging
+- Traditional RDBMS (MS SQL Server, Oracle)
+* Python (OOP, data structures & libraries etc)
++ Testing & debugging
 
 
 🖥️**GitHud Usage**
