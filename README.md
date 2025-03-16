@@ -22,7 +22,7 @@ Building my portfolio.
 |-----:|-----------|
 |     1| SQL       |
 |     2| Python    |
-|     3| JavaScript|
+
 
 ♥️ **Keep in touch**
 
